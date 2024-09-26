@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891223198817",
+    "project_id": "web-portfolio-a4f01",
+    "storage_bucket": "web-portfolio-a4f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891223198817:android:efcdefa40d4a065bf62e20",
+        "android_client_info": {
+          "package_name": "com.sgbl.web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1jC_66Kdz--Q1An0XvnJpc-MTbaNAcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

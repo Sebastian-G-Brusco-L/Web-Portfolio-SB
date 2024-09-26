@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>web_portfolio</title>
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="manifest" href="manifest.json">
+  <base href="/">
+
+  <!-- Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/10.13.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.13.1/firebase-analytics.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.13.1/firebase-performance.js"></script>
+
+  <script>
+    // Configuración de Firebase
+    const firebaseConfig = {
+      apiKey: "AIzaSyCs-v87iRQlfhhZBdzF3SdwVZiiPXlvckI",
+      authDomain: "web-portfolio-a4f01.firebaseapp.com",
+      projectId: "web-portfolio-a4f01",
+      storageBucket: "web-portfolio-a4f01.appspot.com",
+      messagingSenderId: "891223198817",
+      appId: "1:891223198817:web:ddf7a767c1526bf4f62e20",
+      measurementId: "G-DRWST694J6"
+    };
+
+    // Inicializa Firebase
+    firebase.initializeApp(firebaseConfig);
+
+    // Inicializa servicios de Firebase
+    firebase.analytics();
+    firebase.performance();
+  </script>
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
