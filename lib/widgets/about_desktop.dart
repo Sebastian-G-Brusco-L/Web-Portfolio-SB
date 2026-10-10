@@ -44,7 +44,7 @@ class AboutDesktop extends StatelessWidget {
                 height: 30,
               ),
               //CONTAINERS
-              for (int i = 0; i < 4; i++)
+              for (int i = 0; i < textAboutEn.length; i++)
                 Container(
                   margin: const EdgeInsets.all(4),
                   height: 40,

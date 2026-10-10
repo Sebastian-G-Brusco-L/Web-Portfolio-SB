@@ -10,8 +10,7 @@ Map<String, String> textGreetEn = {"greet": "Hi,\nI'm Sebastian Brusco"};
 
 Map<String, String> textAboutEn = {
   "aboutUni": "Information Syst. Engineering student at UTN.",
-  "aboutFlutter": "Full Stack Flutter Developer.",
-  "aboutJava": "Full Stack Java Developer.",
+  "aboutFlutter": "Flutter Developer.",
   "aboutLocat": "Buenos Aires, Argentina."
 };
 
