@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "891223198817",
-    "project_id": "web-portfolio-a4f01",
-    "storage_bucket": "web-portfolio-a4f01.appspot.com"
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT_ID.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:891223198817:android:efcdefa40d4a065bf62e20",
+        "mobilesdk_app_id": "YOUR_ANDROID_APP_ID",
         "android_client_info": {
-          "package_name": "com.sgbl.web"
+          "package_name": "YOUR_PACKAGE_NAME"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBF1jC_66Kdz--Q1An0XvnJpc-MTbaNAcM"
+          "current_key": "YOUR_API_KEY"
         }
       ],
       "services": {
